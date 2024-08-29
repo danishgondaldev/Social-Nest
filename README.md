@@ -1,4 +1,5 @@
 # Social Nest
+This repository contains work originally developed in Oct-Nov 2023. The commits are dated according to the original work timeline, but the repository was created on 29th August, 2024 for organizational and archival purposes.
 
 **Social Nest** is a dynamic social media application developed using Dart as a part of Mobile Application Development Course. This application allows users to **CHAT** with friends, share posts, and create personal TODOs. It utilizes Firebase Firestore for real-time data management. Users can enjoy **YouTube videos** directly within the app and stay updated with the latest **NEWS** from around the globe. Customize your experience with versatile **PROFILE** settings.
 

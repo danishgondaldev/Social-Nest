@@ -13,7 +13,6 @@
 
 ## Screenshots
 
-Here are some screenshots of the application in action:
+Here is a screenshot of the application in action:
 
-![Demo 1](images/demo1.PNG)
-![Demo 2](images/demo2.PNG)
+![Demo](images/demo1.PNG)
